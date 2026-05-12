@@ -1,3 +1,4 @@
+# ARCHIVED AND MOVED TO: [codeberg.org/a2800276/logrotation](https://codeberg.org/a2800276/logrotation)
 # Simple file rotations
 
 Usage: 
